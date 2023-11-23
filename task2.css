@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(224, 91, 13);
+    color: rgb(221, 221, 221);
+}
+#title{
+    font-size: 35px;
+    text-align: center;
+}
+h1{
+    margin: 0%;
+    text-align: center;
+    font-size: 7vh;
+    color: rgb(221, 221, 221);
+}
+img{
+    width: 100%;
+    height: 40vh;
+    display: block;
+}
+
+#tribute-data{
+    padding: 20px 30px;
+}
+#tribute-link{
+    
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
